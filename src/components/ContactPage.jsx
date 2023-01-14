@@ -6,7 +6,7 @@ import ContactImg from "../img/contact-img.jpg";
 const ContactPage = () => {
     return (
         <div>
-            <AboutPageTitle text="Welcome to Meat Central!" />
+            <AboutPageTitle text="Welcome to Meat Central!!!" />
 
             <AboutPageParagraph text="Thank you for visiting Meat Central! We are dedicated to providing our customers with the best service possible. If you have any questions or comments about our products or services, please don't hesitate to contact us." />
             <AboutPageParagraph text="You can reach us by phone at 555-555-5555 from Monday to Friday, 9am to 5pm EST." />
