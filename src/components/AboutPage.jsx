@@ -6,7 +6,7 @@ import AboutPageTitle from "./AboutPageTitle";
 const AboutPage = () => {
     return (
         <div>
-            <AboutPageTitle text="Welcome to Meat Central!" />
+            <AboutPageTitle text="Welcome to Meat Central!!!" />
 
             <AboutPageParagraph text="We are a family-owned business that has been operating for over 20 years. Our mission is to provide high-quality, locally sourced meats to our customers." />
             <AboutPageParagraph text="We work closely with local farmers and ranchers to ensure that all of our meats are of the highest quality. We pride ourselves on offering a wide variety of meats including beef, pork, chicken, and lamb." />
